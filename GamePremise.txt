@@ -1,17 +1,20 @@
-# Super Awesome Adventure Game :+1: :sparkles: :tada: :octocat: 
+# Escape: Text Based Adventure Game :+1: :sparkles: :tada: :octocat: 
 Adventure Game for Introduction to Programming
 
 ## Game Overview
-Brief description of your game. Example: 
-*As you explore an abandoned-looking building in Chicago's South Loop, you discover things are not what they seem. Discover the truth and find the proof before times run out!*
+ESCAPE is a single player text adventure game where a user is locked inside of a room. They must solve puzzles and be clever in order to collect a key and key code along with being healthy enough to make it our alive.
 
 ### World
-What is the environment like that the player will be moving around in? What areas can they explore? Are there items they can find and interact with or add to their inventory?
+The user is situated in a single office space. They have the ability to explore the room and grab objects that will help them break free. The only way out is throug a locked door and they must collect two items and be healthy enough to exit. 
 
 ### Characters
-Who will the player meet as they play your game?
+The main player, you, will encounter an old gatekeeper and a child that will try to limit you ability to leave the room.
+
 
 ### Player Goals
-What does the player need to accomplish? How is their progress tracked?
+The user must collect 2 items and have a health status of 20%+ in order to make it out of the room.
 
-Add any other information you think is important.
+Tools:
+Flashlight 🔦
+Energy Drink 🧃
+Backpack 🎒
