@@ -1,17 +1,17 @@
 # Escape: Text Based Adventure Game :+1: :sparkles: :tada: :octocat: 
 Adventure Game for Introduction to Programming
 
-## Game Overview
+## Game Overview 🔍
 ESCAPE is a single player text adventure game where a user is locked inside of a room. They must solve puzzles and be clever in order to collect a key and key code along with being healthy enough to make it our alive.
 
-### World
+### World 🌎
 The user is situated in a single office space. They have the ability to explore the room and grab objects that will help them break free. The only way out is throug a locked door and they must collect two items and be healthy enough to exit. 
 
-### Characters
+### Characters 👤
 The main player, you, will encounter an old gatekeeper and a child that will try to limit you ability to leave the room.
 
 
-### Player Goals
+### Player Goals 🏆
 The user must collect 2 items and have a health status of 20%+ in order to make it out of the room.
 
 Tools:
